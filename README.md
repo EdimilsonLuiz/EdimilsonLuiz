@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Edimilson Luiz. Seja muito bem vindo! 👋
 
-- 🔭 Focado 100% em estudos na área de Front-end.
+- 🔭 Focado 100% em estudos na área de Front-end e back-end.
 - 🌱 Estudando HTML | CSS | JavaScript
 - 📫 Contate-me no e-mail: edimilson-luiz@hotmail.com
 
